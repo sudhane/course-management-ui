@@ -4,6 +4,8 @@ This project is updated using GitHub Web UI directory
 
 ## Available Scripts
 
+This file is updated locally using Notepad plus.
+
 In the project directory, you can run:
 
 ### `npm start`
