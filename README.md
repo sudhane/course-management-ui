@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is updated using GitHub Web UI directory at 1:23PM
+This project is updated in develop branch.
 
 ## Available Scripts
 
